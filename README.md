@@ -43,7 +43,6 @@ Pencapaian dan statistik aktivitas pengembangan saya:
   <img height="180em" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=RavelanoDiviandra&layout=compact&theme=tokyonight&hide=html,css" />
 </p>
 
-> **Note:** Jika gambar tidak muncul, coba refresh halaman setelah beberapa saat. Statistik ini mencakup total commit dan bahasa pemrograman utama.
 ---
 
 
