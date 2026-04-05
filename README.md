@@ -33,8 +33,19 @@ I am a passionate Electrical Engineering student focused on **Embedded Systems**
 
 - **[Temperature Monitoring LM35](https://github.com/RavelanoDiviandra/pantau-suhu-Berbasis-LM35-dan-tampilan-seven-segment)** 🌡️
   *Precision temperature monitoring system using LM35 sensor with Seven Segment display output.*
-
 ---
+
+## 📊 GitHub Analytics
+Pencapaian dan statistik aktivitas pengembangan saya:
+
+<p align="center">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=RavelanoDiviandra&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true" />
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=RavelanoDiviandra&layout=compact&theme=tokyonight&hide=html,css" />
+</p>
+
+> **Note:** Statistik ini mencakup total commit, kontribusi pada repositori publik, dan bahasa pemrograman yang paling sering digunakan.
+---
+
 
 ### 📫 Connect with me:
 - **Email:** rafeldiviandra@gmail.com
