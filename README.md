@@ -39,11 +39,11 @@ I am a passionate Electrical Engineering student focused on **Embedded Systems**
 Pencapaian dan statistik aktivitas pengembangan saya:
 
 <p align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=RavelanoDiviandra&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true" />
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=RavelanoDiviandra&layout=compact&theme=tokyonight&hide=html,css" />
+  <img height="180em" src="https://github-readme-stats-sigma-five.vercel.app/api?username=RavelanoDiviandra&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true" />
+  <img height="180em" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=RavelanoDiviandra&layout=compact&theme=tokyonight&hide=html,css" />
 </p>
 
-> **Note:** Statistik ini mencakup total commit, kontribusi pada repositori publik, dan bahasa pemrograman yang paling sering digunakan.
+> **Note:** Jika gambar tidak muncul, coba refresh halaman setelah beberapa saat. Statistik ini mencakup total commit dan bahasa pemrograman utama.
 ---
 
 
