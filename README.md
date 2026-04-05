@@ -36,12 +36,6 @@ I am a passionate Electrical Engineering student focused on **Embedded Systems**
 
 ---
 
-### 📊 GitHub Activity
-
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=RavelanoDiviandra&theme=tokyonight)
-
----
-
 ### 📫 Connect with me:
 - **Email:** rafeldiviandra@gmail.com
-- **LinkedIn:** www.linkedin.com/in/ravelano_diviandra
+- **LinkedIn:** www.linkedin.com/in/ravelano-diviandra-b035383b5a
