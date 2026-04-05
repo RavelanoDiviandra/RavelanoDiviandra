@@ -1,4 +1,4 @@
-# Hi there, I'm Ravelano DIviandra👋
+# Hi there, I'm Ravelano Diviandra👋
 ### Electrical Engineering Student | Embedded Systems, IoT & Industrial Automation
 
 I am a passionate Electrical Engineering student focused on **Embedded Systems**, **IoT**, and **Industrial Automation**. I specialize in bridging the gap between hardware and software to create efficient, real-world solutions for industrial and consumer applications.
