@@ -38,6 +38,8 @@ I am a passionate Electrical Engineering student focused on **Embedded Systems**
 
 ### 📫 Connect with me:
 - **Email:** rafeldiviandra@gmail.com
-- **LinkedIn:** www.linkedin.com/in/ravelano-diviandra-b035383b5
+- **LinkedIn:** www.linkedin.com/in/ravelano-diviandra
+
+
 
 
