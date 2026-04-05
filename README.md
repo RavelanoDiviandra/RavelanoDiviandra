@@ -5,24 +5,20 @@ I am a passionate Electrical Engineering student focused on **Embedded Systems**
 
 ---
 
-### 🛠️ Tech Stack & Tools
+## 🛠️ Tech Stack & Tools
 
-**Industrial Automation & PLC:**
-![Omron](https://img.shields.io/badge/Omron-PLC-blue?style=for-the-badge&logo=automation&logoColor=white)
-- **Software:** CX-Programmer (Ladder Diagram, Function Blocks).
-- **Control Logic:** Sequential Control, HMI Integration, Industrial Sensors.
+### 🏭 Industrial Automation & PLC
+![OMRON](https://img.shields.io/badge/OMRON-005193?style=flat&logo=omron&logoColor=white) ![PLC](https://img.shields.io/badge/PLC-Automation-blue?style=flat) ![CX-Programmer](https://img.shields.io/badge/CX--Programmer-Ladder--Logic-gray?style=flat)
+- **Specialization:** Sequential Control, HMI Integration, Industrial Sensors.
+- **Tools:** Ladder Diagram, Function Blocks.
 
-**Microcontrollers & Hardware:**
-- **Controllers:** ESP32, AVR (ATmega), 8051 Series, Arduino.
-- **Communication:** WebSockets, MQTT, Serial Communication (UART/I2C/SPI).
+### 🤖 Microcontrollers & Hardware
+![ESP32](https://img.shields.io/badge/ESP32-E67E22?style=flat&logo=espressif&logoColor=white) ![AVR](https://img.shields.io/badge/AVR-Atmega-005193?style=flat&logo=microchip&logoColor=white) ![Arduino](https://img.shields.io/badge/Arduino-00979D?style=flat&logo=arduino&logoColor=white) ![8051](https://img.shields.io/badge/8051-Assembly-black?style=flat)
+- **Communication:** ![WebSockets](https://img.shields.io/badge/WebSockets-white?style=flat&logo=socket.io&logoColor=black) ![MQTT](https://img.shields.io/badge/MQTT-660066?style=flat&logo=mqtt&logoColor=white) ![Serial](https://img.shields.io/badge/Serial-UART/I2C/SPI-blue?style=flat)
 
-**Languages & Programming:**
-![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white)
-![Arduino](https://img.shields.io/badge/Arduino-00979D?style=for-the-badge&logo=arduino&logoColor=white)
-
-**Design & Simulation:**
-![Proteus](https://img.shields.io/badge/Proteus-000000?style=for-the-badge&logo=pcb&logoColor=white)
-- Circuit Design, PCB Layouting, and System Simulation.
+### 💻 Languages & Simulation
+![C++](https://img.shields.io/badge/C++-00599C?style=flat&logo=c%2B%2B&logoColor=white) ![Arduino C](https://img.shields.io/badge/Arduino_C-00979D?style=flat&logo=arduino&logoColor=white) ![Proteus](https://img.shields.io/badge/Proteus-Design-black?style=flat)
+- **Design:** Circuit Design, PCB Layouting, and System Simulation.
 
 ---
 
