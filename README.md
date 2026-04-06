@@ -23,7 +23,7 @@
 
 ### 🚀 Featured Projects
 - [Smart Garden System](https://github.com/RavelanoDiviandra/Smart-Garden-System) 🪴 **Sistem perawatan tanaman otomatis** berbasis Arduino dengan logika sensor ganda adaptif (Kelembapan & Cahaya) dan kontrol Histeresis.
-- [Temperature Monitoring LM35](link-ke-repo) 🌡️ **Sistem pemantauan suhu presisi** menggunakan sensor LM35 dengan tampilan output Seven Segment.
+- [Temperature Monitoring LM35](https://github.com/RavelanoDiviandra/pantau-suhu-Berbasis-LM35-dan-tampilan-seven-segment) 🌡️ **Sistem pemantauan suhu presisi** menggunakan sensor LM35 dengan tampilan output Seven Segment.
 ---
 
 ## 📊 GitHub Analytics
