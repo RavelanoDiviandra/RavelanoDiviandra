@@ -1,6 +1,6 @@
 ## Halo, saya Ravelano Diviandra 👋
 
-*Mahasiswa Teknik Elektro | Embedded Systems, IoT & Otomasi Industri*
+**Mahasiswa Teknik Elektro | Embedded Systems, IoT & Otomasi Industri**
 
 <sub>Saya adalah mahasiswa Teknik Elektro yang berfokus pada sistem tertanam (Embedded Systems), IoT, dan Otomasi Industri. Saya memiliki minat besar dalam menjembatani celah antara perangkat keras (hardware) dan perangkat lunak (software) untuk menciptakan solusi yang efisien bagi industri maupun konsumen.</sub>
 ---
