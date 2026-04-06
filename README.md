@@ -1,4 +1,4 @@
-## Halo, saya Ravelano Diviandra 👋
+### Halo, saya Ravelano Diviandra 👋
 
 **Mahasiswa Teknik Elektro | Embedded Systems, IoT & Otomasi Industri**
 
