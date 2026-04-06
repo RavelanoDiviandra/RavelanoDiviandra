@@ -1,8 +1,8 @@
-# Hi there, I'm Ravelano Diviandra👋
-### Electrical Engineering Student | Embedded Systems, IoT & Industrial Automation
+# Halo, saya Ravelano Diviandra 👋
 
-I am a passionate Electrical Engineering student focused on **Embedded Systems**, **IoT**, and **Industrial Automation**. I specialize in bridging the gap between hardware and software to create efficient, real-world solutions for industrial and consumer applications.
+### Mahasiswa Teknik Elektro | Embedded Systems, IoT & Otomasi Industri
 
+Saya adalah mahasiswa Teknik Elektro yang berfokus pada sistem tertanam (Embedded Systems), IoT, dan Otomasi Industri. Saya memiliki minat besar dalam menjembatani celah antara perangkat keras (hardware) dan perangkat lunak (software) untuk menciptakan solusi yang efisien bagi industri maupun konsumen.
 ---
 
 ## 🛠️ Tech Stack & Tools
@@ -23,12 +23,8 @@ I am a passionate Electrical Engineering student focused on **Embedded Systems**
 ---
 
 ### 🚀 Featured Projects
-
-- **[Smart Garden System](https://github.com/RavelanoDiviandra/Smart-Garden-System)** 🪴
-  *Automated plant care system based on Arduino with adaptive dual-sensor logic (Moisture & Light) and Hysteresis control.*
-
-- **[Temperature Monitoring LM35](https://github.com/RavelanoDiviandra/pantau-suhu-Berbasis-LM35-dan-tampilan-seven-segment)** 🌡️
-  *Precision temperature monitoring system using LM35 sensor with Seven Segment display output.*
+- [Smart Garden System](link-ke-repo) 🪴 **Sistem perawatan tanaman otomatis** berbasis Arduino dengan logika sensor ganda adaptif (Kelembapan & Cahaya) dan kontrol Histeresis.
+- [Temperature Monitoring LM35](link-ke-repo) 🌡️ **Sistem pemantauan suhu presisi** menggunakan sensor LM35 dengan tampilan output Seven Segment.
 ---
 
 ## 📊 GitHub Analytics
